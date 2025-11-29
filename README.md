@@ -46,7 +46,6 @@ Approach: Minimalistic. Precise. Logical. Sherlock-coded.
 Every project follows an elite, shadow-engineer format:
 No clutter.
 No unnecessary files.
-Only what matters.
 ...
 ## 🖤 Operating Principles
 
